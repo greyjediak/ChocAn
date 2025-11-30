@@ -1,11 +1,19 @@
 package chocan;
 
 public class MemberCard {
-    private String MemberFirstName;
-    private String MemberLastName;
-    private int MemberNumber;
+    private String memberFirstName;
+    private String memberLastName;
+    private String memberNumber;
 
-    //public String GetFirstName();
-    //public String GetLastName();
-    //public int GetMemberNumber();
+    public MemberCard(String memberFirstName, String memberLastName, String memberNumber)
+    {
+        this.memberFirstName = memberFirstName;
+        this.memberLastName = memberLastName;
+        this.memberNumber = memberNumber;
+
+    }
+
+    public String getFirstName() { return memberFirstName;}
+    public String getLastName() { return memberLastName;}
+    public String getMemberNumber() { return memberNumber;}
 }

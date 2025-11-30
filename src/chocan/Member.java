@@ -2,22 +2,22 @@ package chocan;
 
 public class Member extends Person {
     private String email;  //
+    private MemberCard memberCard; //let all members have object member card
 
     public Member(String firstName, String lastName, String number, String address, String city, String state, String zipCode, String email)
     {
-        this.firstName = firstName;
-        this.lastName = lastName;
-        this.number = number;
-        this.address = address;
-        this.city = city;
-        this.state = state;
-        this.zipCode = zipCode;
+        super(firstName, lastName, number, address, city, state, zipCode);
         this.email = email;
-
-        //public MemberCard GetCard();
-        //public String GetEmail();
-        //public static void RequestHealthService();
+        this.memberCard = new MemberCard(firstName, lastName, number);
     }
 
-    //NEED getters and setters
+    public String getEmail() {return email;}
+    public void setEmail(String email) {this.email = email;}
+    public MemberCard getCard() {return memberCard;}
+
+    public void requestHealthService() 
+    {
+        
+    }
+
 }
