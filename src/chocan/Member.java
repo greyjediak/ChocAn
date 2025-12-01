@@ -1,3 +1,6 @@
+//Member.java written by Lindsey Bowen
+//NEEDS COMPLETION
+
 package chocan;
 
 public class Member extends Person {
@@ -17,7 +20,7 @@ public class Member extends Person {
 
     public void requestHealthService() 
     {
-        
+        //TODO
     }
 
 }

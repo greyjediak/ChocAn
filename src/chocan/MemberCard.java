@@ -1,3 +1,5 @@
+//MemberCard.java written by Lindsey Bowen
+
 package chocan;
 
 public class MemberCard {

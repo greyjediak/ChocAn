@@ -1,3 +1,6 @@
+// Person.java by Lindsey Bowen.
+//Provider and Member will inherit from this class.
+
 package chocan;
 
 public class Person {
