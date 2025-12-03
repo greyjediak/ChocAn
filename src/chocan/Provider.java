@@ -21,5 +21,8 @@ public class Provider extends Person {
     {
         //TODO
     }
+    public String returnInfo() {
+    	return firstName + "_" + lastName + "_" + phoneNumber  + "_" + address  + "_" + city + "_" +  state  + "_" + zipCode;
+    }
 
 }
