@@ -28,7 +28,7 @@ public class Person {
     public String getLastName(){ return lastName;}
     public void setLastName(String lastName) {this.lastName = lastName;}
 
-    public String getNumber(){ return phoneNumber;}
+    public String getPhoneNumber(){ return phoneNumber;}
     public void setNumber(String number) {this.phoneNumber = number;}
 
     public String getAddress(){ return address;}
@@ -42,6 +42,4 @@ public class Person {
 
     public String getZipCode(){ return zipCode;}
     public void setZipCode(String zipCode) {this.zipCode = zipCode;}
-
-
 }

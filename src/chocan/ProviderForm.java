@@ -9,8 +9,10 @@ public class ProviderForm {
     private byte day;
     private byte month;
     private short year;
-    private int ServiceCode;
-    private double Fee;
+    private double fee;
 
     //GetHours() etc
+    public String getInfo() {
+    	return name + "|" + number + "|" + hours + "|" + minutes + "|" + seconds + "|" + day + "|" + month + "|" + year  + "|" + fee;
+    }
 }
