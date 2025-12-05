@@ -1,3 +1,1 @@
-
-- Manager
 - ACME Accounting Services

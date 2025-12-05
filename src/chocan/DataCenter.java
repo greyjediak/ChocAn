@@ -151,6 +151,10 @@ public class DataCenter extends readAndWritable{
         serviceRecords.add(record);
     }
     
+    public java.util.List<ServiceRecord> getServiceRecords() {
+        return new java.util.ArrayList<>(serviceRecords);
+    }
+    
     public void addProvider(String firstName, String lastName, String phoneNumber, String address, String city, String state, String zipCode, String number) {
         providers.add(new Provider(firstName, lastName, phoneNumber, address, city, state, zipCode, number));
     }
