@@ -40,18 +40,18 @@ public class DataCenter extends readAndWritable{
     
     public void writeInfo(String fileName) {
     	
-    	if(fileName == "members.txt") {
+    	if(fileName.equals("members.txt")) {
     		writeMember("src/chocan/" + fileName, members);
     	}
     	
-    	if(fileName == "providers.txt") {
+    	if(fileName.equals("providers.txt")) {
     		writeProvider("src/chocan/" + fileName, providers);	
     	}
     	
-    	if(fileName == "managers.txt") {
+    	if(fileName.equals("manager.txt")) {
     		writeManager("src/chocan/" + fileName, managers);	
     	}
-    	if(fileName == "suspendedmembers.txt") {
+    	if(fileName.equals("suspendedmembers.txt")) {
     		writeMember("src/chocan/" + fileName, suspendedMembers);
     	}
     	
@@ -109,20 +109,20 @@ public class DataCenter extends readAndWritable{
     
     public boolean validMember(String name, String number) {
     	for(int i = 0;  i < members.size(); i++) {
-    		if((members.get(i).getFirstName() + " " + members.get(i).getLastName()) == name && members.get(i).getCard().getMemberNumber() == number) return true;
+    		if((members.get(i).getFirstName() + " " + members.get(i).getLastName()).equals(name) && members.get(i).getCard().getMemberNumber().equals(number)) return true;
     	}
 		return false;
     }
     public boolean validProvider(String name, String number) {
     	for(int i = 0;  i < providers.size(); i++) {
-    		if((providers.get(i).getFirstName() + " " + providers.get(i).getLastName()) == name && providers.get(i).getProviderNumber() == number) return true;
+    		if((providers.get(i).getFirstName() + " " + providers.get(i).getLastName()).equals(name) && providers.get(i).getProviderNumber().equals(number)) return true;
     	}
 		return false;
     }
     
     public boolean validManager(String name, String number) {
     	for(int i = 0;  i < managers.size(); i++) {
-    		if((managers.get(i).getFirstName() + " " + managers.get(i).getLastName()) == name && managers.get(i).getManagerNumber() == number) return true;
+    		if((managers.get(i).getFirstName() + " " + managers.get(i).getLastName()).equals(name) && managers.get(i).getManagerNumber().equals(number)) return true;
     	}
 		return false;
     }
