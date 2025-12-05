@@ -641,7 +641,8 @@ public class Terminal extends JFrame{
 	private String accumulateFees(Member member) {
 		
         ProviderForm[] forms = sys.getWeeklyProviderForm();
-        if (forms == null) return null; // FIXME?
+        // Edited by Wheeler Knight on 12/4/2025 - Null check still needed for safety
+        if (forms == null) return "";
         String memberName = member.getFullName();
         StringBuilder returnString = new StringBuilder();
         for (ProviderForm form : forms)
@@ -669,7 +670,8 @@ public class Terminal extends JFrame{
 		//String returnString = "";
 
         ServiceRequest[] pendingRequests = sys.getPendingServiceRequest();
-        if (pendingRequests == null) return null; //FIXME?
+        // Edited by Wheeler Knight on 12/4/2025 - Null check still needed for safety
+        if (pendingRequests == null) return "";
         String providerName = provider.getFullName();
         StringBuilder returnString = new StringBuilder(); // use of built in StringBuilder function
 

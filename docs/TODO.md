@@ -183,7 +183,7 @@
   - Document all public methods
   - Document parameters and return values
   
-- [ ] **Update inner README.md** (src/chocan/README.md)
+- [x] **Update inner README.md** (src/chocan/README.md) ✅
   - Currently just contains `# ChocAn`
   - Add package-level documentation
 
@@ -215,11 +215,11 @@
 ## Technical Debt
 
 ### Remove/Clean Up
-- [ ] Remove unused `idNumber` field from Person.java
-- [ ] Remove unused `requests.txt` file or implement its functionality
-- [ ] Remove or implement `servicerequest.txt` functionality
+- [x] Remove unused `idNumber` field from Person.java ✅
+- [x] Remove unused `requests.txt` file or implement its functionality ✅ (removed)
+- [x] Remove or implement `servicerequest.txt` functionality ✅ (implemented)
 - [ ] Clean up commented code in Terminal.java
-- [ ] Remove FIXME comments after implementing fixes
+- [x] Remove FIXME comments after implementing fixes ✅
 
 ### Fix Resource Leaks
 - [ ] Fix Scanner resource warnings
@@ -231,20 +231,20 @@
 ## Summary Checklist
 
 ### Before Alpha Release
-- [ ] All Critical Bug Fixes complete
-- [ ] Manager Screen implemented
-- [ ] Core suspend/unsuspend functionality working
+- [x] All Critical Bug Fixes complete ✅
+- [x] Manager Screen implemented ✅
+- [x] Core suspend/unsuspend functionality working ✅
 
 ### Before Beta Release
-- [ ] All High Priority features complete
-- [ ] Service Request workflow complete
-- [ ] Basic data persistence for all entities
+- [x] All High Priority features complete ✅
+- [x] Service Request workflow complete ✅
+- [x] Basic data persistence for all entities ✅
 
 ### Before Production Release
-- [ ] All Medium Priority features complete
+- [x] All Medium Priority features complete ✅ (mostly)
 - [ ] Unit tests with >80% coverage
 - [ ] Security improvements implemented
-- [ ] Documentation complete
+- [x] Documentation complete ✅ (basic)
 
 ---
 
@@ -256,13 +256,17 @@
 
 ### Known Working Features
 - ✅ Member login
-- ✅ Provider login  
+- ✅ Provider login
+- ✅ Manager login
 - ✅ Basic member/provider data loading from files
 - ✅ Provider directory display and file export
+- ✅ Service request approval/decline workflow
+- ✅ Member suspension/unsuspension
+- ✅ Add new members/providers (Manager)
+- ✅ EFT data generation
+- ✅ Report export to files
+- ✅ Service record persistence
 
 ### Known Broken Features
-- ❌ Manager login (screen not implemented)
-- ❌ Service request approval (no backend logic)
-- ❌ Member suspension
-- ❌ Writing provider data (file path mismatch)
+- (All previously broken features have been fixed!)
 
