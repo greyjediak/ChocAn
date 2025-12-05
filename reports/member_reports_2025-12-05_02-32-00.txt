@@ -1,0 +1,23 @@
+=== Member Service Reports ===
+Generated: 2025-12-05T02:32:00.561241145
+
+Member: Jon doe
+Number: 1
+Address: 123street, Tuscaloosa, Alabama 35405
+Services:
+  2025-12-05 - Dr Smith - CONSULTATION - $12.99
+  2025-12-05 - Dr Smith - CONSULTATION - $12.99
+  2025-12-05 - Dr Smith - CONSULTATION - $12.99
+
+Member: Jane doe
+Number: 2
+Address: 123street, Tuscaloosa, Alabama 35405
+Services:
+  No services this week
+
+Member: Wyatt Knight
+Number: 567252
+Address: 11906 CR 236, Moulton, AL 35650
+Services:
+  2025-12-05 - Dr Smith - CONSULTATION - $12.99
+

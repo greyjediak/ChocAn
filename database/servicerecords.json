@@ -12,6 +12,19 @@
     "serviceCode": "1",
     "serviceFee": 12.99,
     "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "P001",
+    "memberNumber": "1",
+    "serviceCode": "1",
+    "serviceFee": 12.99,
+    "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "P001",
+    "memberNumber": "567252",
+    "serviceCode": "1",
+    "serviceFee": 12.99,
+    "serviceDate": "2025-12-05"
   }
 ]
-

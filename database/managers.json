@@ -1,6 +1,7 @@
 [
   {
     "managerNumber": "M001",
+    "password": "admin",
     "firstName": "Admin",
     "lastName": "User",
     "phoneNumber": "555-555-9999",
@@ -10,4 +11,3 @@
     "zipCode": "35405"
   }
 ]
-

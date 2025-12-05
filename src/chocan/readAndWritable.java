@@ -54,6 +54,11 @@ public abstract class readAndWritable {
         writeToJson(DATABASE_PATH + fileName, requests);
     }
     
+    // Written by Wheeler Knight on 12/5/2025 - Added Operator persistence
+    protected void writeOperator(String fileName, Vector<Operator> operators) {
+        writeToJson(DATABASE_PATH + fileName, operators);
+    }
+    
     /**
      * Generic method to write any object to JSON file
      */
@@ -96,6 +101,13 @@ public abstract class readAndWritable {
     protected Vector<ServiceRequest> readServiceRequests(String fileName) {
         Type type = new TypeToken<Vector<ServiceRequest>>(){}.getType();
         Vector<ServiceRequest> result = readFromJsonFile(DATABASE_PATH + fileName, type);
+        return result != null ? result : new Vector<>();
+    }
+    
+    // Written by Wheeler Knight on 12/5/2025 - Added Operator persistence
+    protected Vector<Operator> readOperators(String fileName) {
+        Type type = new TypeToken<Vector<Operator>>(){}.getType();
+        Vector<Operator> result = readFromJsonFile(DATABASE_PATH + fileName, type);
         return result != null ? result : new Vector<>();
     }
     

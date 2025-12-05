@@ -1,6 +1,7 @@
 [
   {
     "providerNumber": "P001",
+    "password": "provider",
     "firstName": "Dr",
     "lastName": "Smith",
     "phoneNumber": "555-555-1234",
@@ -8,6 +9,15 @@
     "city": "Birmingham",
     "state": "Alabama",
     "zipCode": "35201"
+  },
+  {
+    "providerNumber": "8008",
+    "firstName": "Rossy",
+    "lastName": "Hollinger",
+    "phoneNumber": "123 456 7891",
+    "address": "401 jefferson Ave",
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "zipCode": "35401"
   }
 ]
-

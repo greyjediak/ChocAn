@@ -1,0 +1,10 @@
+=== Summary Report ===
+Generated: 2025-12-05T02:32:00.560078534
+
+Provider             Number          Consultations   Total Fee      
+--------------------------------------------------------------
+Dr Smith             P001            4               $51.96         
+--------------------------------------------------------------
+Total providers: 1
+Total consultations: 4
+Total fees: $51.96

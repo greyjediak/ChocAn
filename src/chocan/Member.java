@@ -9,6 +9,7 @@ package chocan;
 
 public class Member extends Person {
     private String email;  //
+    private String pin; // PIN for login validation - Wheeler Knight 12/5/2025
     private MemberCard memberCard; //let all members have object member card
 
     // Default constructor for Gson deserialization - Wheeler Knight 12/5/2025
@@ -23,9 +24,11 @@ public class Member extends Person {
         this.memberCard = new MemberCard(firstName, lastName, number);
     }
 
-    // Getters
+    // Getters and Setters
     public String getEmail() {return email;}
     public void setEmail(String email) {this.email = email;}
+    public String getPin() {return pin;}
+    public void setPin(String pin) {this.pin = pin;}
     public MemberCard getCard() {return memberCard;}
     /*public String getFullName()
     {

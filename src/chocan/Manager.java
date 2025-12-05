@@ -3,19 +3,28 @@ package chocan;
 public class Manager extends Person{
 	
 	private String managerNumber;
+	private String password; // Password for login validation - Wheeler Knight 12/5/2025
 
 	// Default constructor for Gson deserialization - Wheeler Knight 12/5/2025
 	public Manager() {
 		super();
 	}
 
-	public Manager(String firstName, String lastName, String phoneNumber, String address, String city, String state,String zipCode, String number) {
+	public Manager(String firstName, String lastName, String phoneNumber, String address, String city, String state, String zipCode, String number) {
 		super(firstName, lastName, phoneNumber, address, city, state, zipCode);
 		managerNumber = number;
-		
 	}
+	
 	public String getManagerNumber() {
 		return managerNumber;
+	}
+	
+	public String getPassword() {
+		return password;
+	}
+	
+	public void setPassword(String password) {
+		this.password = password;
 	}
 	
 	public String returnInfo() {

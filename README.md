@@ -1,5 +1,10 @@
 # ChocAn Data Processing System
 
+### RUN APP:
+```bash
+cd /home/wheeler/cs200/project4/ChocAn && export DISPLAY=:0 && java -cp "bin:lib/gson-2.10.1.jar" chocan.Main
+```
+
 ## Overview
 
 ChocAn (Chocoholics Anonymous) is a healthcare services management system designed to manage member subscriptions, provider services, and billing operations for a fictional organization that helps people addicted to chocolate. The system facilitates interactions between three main user types: **Members**, **Providers**, and **Managers**.
