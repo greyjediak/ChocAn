@@ -1,7 +1,7 @@
 // Terminal Class
 /*
 This class implements the running terminal functions. It houses the swing gui and 
-is responsible for verifying login and various options.
+is responsible for verifying login and various 
  */
 
 package chocan;
