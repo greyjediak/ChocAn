@@ -1,0 +1,4 @@
+Service Name         Code       Fee ($)   
+CONSULTATION         000001     $12.99     
+CONVERSATION         000002     $8.99      
+EMERGENCY            000003     $29.99     

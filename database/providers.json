@@ -1,0 +1,90 @@
+[
+  {
+    "providerNumber": "P001",
+    "password": "provider",
+    "firstName": "Dr",
+    "lastName": "Smith",
+    "phoneNumber": "555-555-1234",
+    "address": "123 Medical Dr",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "zipCode": "35201"
+  },
+  {
+    "providerNumber": "P002",
+    "password": "health123",
+    "firstName": "Dr",
+    "lastName": "Johnson",
+    "phoneNumber": "555-555-5678",
+    "address": "456 Healthcare Blvd",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "zipCode": "35401"
+  },
+  {
+    "providerNumber": "P003",
+    "password": "medical",
+    "firstName": "Dr",
+    "lastName": "Williams",
+    "phoneNumber": "555-555-9012",
+    "address": "789 Wellness Way",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "zipCode": "35801"
+  },
+  {
+    "providerNumber": "P004",
+    "password": "care456",
+    "firstName": "Dr",
+    "lastName": "Brown",
+    "phoneNumber": "555-555-3456",
+    "address": "321 Clinic Center",
+    "city": "Montgomery",
+    "state": "Alabama",
+    "zipCode": "36104"
+  },
+  {
+    "providerNumber": "8008",
+    "password": "rossy",
+    "firstName": "Rossy",
+    "lastName": "Hollinger",
+    "phoneNumber": "123-456-7891",
+    "address": "401 Jefferson Ave",
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "zipCode": "35401"
+  },
+  {
+    "providerNumber": "P005",
+    "password": "therapy",
+    "firstName": "Dr",
+    "lastName": "Davis",
+    "phoneNumber": "555-555-7890",
+    "address": "500 Treatment Trail",
+    "city": "Mobile",
+    "state": "Alabama",
+    "zipCode": "36602"
+  },
+  {
+    "providerNumber": "P006",
+    "password": "wellness",
+    "firstName": "Dr",
+    "lastName": "Miller",
+    "phoneNumber": "555-555-2345",
+    "address": "600 Health Haven",
+    "city": "Auburn",
+    "state": "Alabama",
+    "zipCode": "36830"
+  },
+  {
+    "providerNumber": "P999",
+    "password": "newprovider",
+    "firstName": "John",
+    "lastName": "Smith",
+    "phoneNumber": "555-999-8888",
+    "address": "500 Medical Plaza",
+    "city": "Birmingham",
+    "state": "AL",
+    "zipCode": "35203"
+  }
+]

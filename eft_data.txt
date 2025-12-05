@@ -1,0 +1,14 @@
+=== EFT Data Report ===
+Generated: 2025-12-05T02:51:03.732570777
+
+Provider Name        Provider #      Amount Due     
+--------------------------------------------------
+Dr Davis             P005            $51.97         
+Dr Brown             P004            $30.97         
+Dr Miller            P006            $8.99          
+Dr Smith             P001            $94.95         
+Dr Williams          P003            $64.96         
+Dr Johnson           P002            $64.96         
+Rossy Hollinger      8008            $42.98         
+--------------------------------------------------
+Total EFT Amount: $359.78

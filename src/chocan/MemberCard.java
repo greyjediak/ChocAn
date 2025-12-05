@@ -10,6 +10,9 @@ public class MemberCard {
     private String memberLastName;
     private String memberNumber;
 
+    // Default constructor for Gson deserialization - Wheeler Knight 12/5/2025
+    public MemberCard() {}
+
     public MemberCard(String memberFirstName, String memberLastName, String memberNumber)
     {
         this.memberFirstName = memberFirstName;

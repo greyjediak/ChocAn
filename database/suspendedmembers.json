@@ -1,0 +1,34 @@
+[
+  {
+    "email": "suspended.user@email.com",
+    "pin": "0000",
+    "memberCard": {
+      "memberFirstName": "Suspended",
+      "memberLastName": "User",
+      "memberNumber": "999999"
+    },
+    "firstName": "Suspended",
+    "lastName": "User",
+    "phoneNumber": "(555)-000-0000",
+    "address": "1 Unpaid Bills Rd",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "zipCode": "35405"
+  },
+  {
+    "email": "overdue.member@email.com",
+    "pin": "1111",
+    "memberCard": {
+      "memberFirstName": "Overdue",
+      "memberLastName": "Member",
+      "memberNumber": "888888"
+    },
+    "firstName": "Overdue",
+    "lastName": "Member",
+    "phoneNumber": "(555)-111-1111",
+    "address": "2 Late Payment Ave",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "zipCode": "35203"
+  }
+]

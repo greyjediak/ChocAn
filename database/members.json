@@ -1,0 +1,193 @@
+[
+  {
+    "email": "JonDoe123@gmail.com",
+    "pin": "1234",
+    "memberCard": {
+      "memberFirstName": "Jon",
+      "memberLastName": "Doe",
+      "memberNumber": "100001"
+    },
+    "firstName": "Jon",
+    "lastName": "Doe",
+    "phoneNumber": "(333)-333-3333",
+    "address": "123 Main Street",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "zipCode": "35405"
+  },
+  {
+    "email": "jane.doe@email.com",
+    "pin": "1234",
+    "memberCard": {
+      "memberFirstName": "Jane",
+      "memberLastName": "Doe",
+      "memberNumber": "100002"
+    },
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "phoneNumber": "(334)-555-1234",
+    "address": "456 Oak Avenue",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "zipCode": "35203"
+  },
+  {
+    "email": "wheelerknight19@gmail.com",
+    "pin": "5678",
+    "memberCard": {
+      "memberFirstName": "Wyatt",
+      "memberLastName": "Knight",
+      "memberNumber": "567252"
+    },
+    "firstName": "Wyatt",
+    "lastName": "Knight",
+    "phoneNumber": "256-290-8916",
+    "address": "11906 CR 236",
+    "city": "Moulton",
+    "state": "AL",
+    "zipCode": "35650"
+  },
+  {
+    "email": "bob.wilson@gmail.com",
+    "pin": "4321",
+    "memberCard": {
+      "memberFirstName": "Bob",
+      "memberLastName": "Wilson",
+      "memberNumber": "100003"
+    },
+    "firstName": "Bob",
+    "lastName": "Wilson",
+    "phoneNumber": "(205)-555-9876",
+    "address": "789 Pine Road",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "zipCode": "35801"
+  },
+  {
+    "email": "sarah.johnson@yahoo.com",
+    "pin": "9999",
+    "memberCard": {
+      "memberFirstName": "Sarah",
+      "memberLastName": "Johnson",
+      "memberNumber": "100004"
+    },
+    "firstName": "Sarah",
+    "lastName": "Johnson",
+    "phoneNumber": "(256)-444-5555",
+    "address": "321 Elm Street",
+    "city": "Montgomery",
+    "state": "Alabama",
+    "zipCode": "36104"
+  },
+  {
+    "email": "emily.davis@gmail.com",
+    "pin": "2222",
+    "memberCard": {
+      "memberFirstName": "Emily",
+      "memberLastName": "Davis",
+      "memberNumber": "100006"
+    },
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "phoneNumber": "(251)-222-3333",
+    "address": "100 University Blvd",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "zipCode": "35401"
+  },
+  {
+    "email": "chris.martinez@email.com",
+    "pin": "3333",
+    "memberCard": {
+      "memberFirstName": "Chris",
+      "memberLastName": "Martinez",
+      "memberNumber": "100007"
+    },
+    "firstName": "Chris",
+    "lastName": "Martinez",
+    "phoneNumber": "(205)-111-4444",
+    "address": "200 Stadium Drive",
+    "city": "Auburn",
+    "state": "Alabama",
+    "zipCode": "36830"
+  },
+  {
+    "email": "lisa.garcia@hotmail.com",
+    "pin": "4444",
+    "memberCard": {
+      "memberFirstName": "Lisa",
+      "memberLastName": "Garcia",
+      "memberNumber": "100008"
+    },
+    "firstName": "Lisa",
+    "lastName": "Garcia",
+    "phoneNumber": "(334)-999-1111",
+    "address": "450 College Street",
+    "city": "Florence",
+    "state": "Alabama",
+    "zipCode": "35630"
+  },
+  {
+    "email": "david.lee@gmail.com",
+    "pin": "5555",
+    "memberCard": {
+      "memberFirstName": "David",
+      "memberLastName": "Lee",
+      "memberNumber": "100009"
+    },
+    "firstName": "David",
+    "lastName": "Lee",
+    "phoneNumber": "(256)-666-7777",
+    "address": "777 Research Park",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "zipCode": "35806"
+  },
+  {
+    "email": "amanda.taylor@yahoo.com",
+    "pin": "6666",
+    "memberCard": {
+      "memberFirstName": "Amanda",
+      "memberLastName": "Taylor",
+      "memberNumber": "100010"
+    },
+    "firstName": "Amanda",
+    "lastName": "Taylor",
+    "phoneNumber": "(205)-888-9999",
+    "address": "888 Highland Avenue",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "zipCode": "35205"
+  },
+  {
+    "email": "jane.new@email.com",
+    "memberCard": {
+      "memberFirstName": "John",
+      "memberLastName": "Newmember",
+      "memberNumber": "200001"
+    },
+    "firstName": "John",
+    "lastName": "Newmember",
+    "phoneNumber": "555-123-4567",
+    "address": "123 Test Street",
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "zipCode": "35401"
+  },
+  {
+    "email": "mike.brown@outlook.com",
+    "pin": "1111",
+    "memberCard": {
+      "memberFirstName": "Mike",
+      "memberLastName": "Brown",
+      "memberNumber": "100005"
+    },
+    "firstName": "Mike",
+    "lastName": "Brown",
+    "phoneNumber": "(334)-777-8888",
+    "address": "555 Maple Lane",
+    "city": "Mobile",
+    "state": "Alabama",
+    "zipCode": "36602"
+  }
+]

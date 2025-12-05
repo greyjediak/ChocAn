@@ -1,0 +1,35 @@
+[
+  {
+    "managerNumber": "M001",
+    "password": "admin",
+    "firstName": "Admin",
+    "lastName": "User",
+    "phoneNumber": "555-555-9999",
+    "address": "100 Admin St",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "zipCode": "35405"
+  },
+  {
+    "managerNumber": "M002",
+    "password": "manager",
+    "firstName": "Regional",
+    "lastName": "Manager",
+    "phoneNumber": "555-555-8888",
+    "address": "200 Corporate Way",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "zipCode": "35203"
+  },
+  {
+    "managerNumber": "M003",
+    "password": "super123",
+    "firstName": "District",
+    "lastName": "Supervisor",
+    "phoneNumber": "555-555-7777",
+    "address": "300 Executive Blvd",
+    "city": "Montgomery",
+    "state": "Alabama",
+    "zipCode": "36104"
+  }
+]

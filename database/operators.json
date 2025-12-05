@@ -1,0 +1,35 @@
+[
+  {
+    "operatorNumber": "OP001",
+    "password": "1234",
+    "firstName": "System",
+    "lastName": "Operator",
+    "phoneNumber": "555-555-0001",
+    "address": "200 ChocAn Way",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "zipCode": "35405"
+  },
+  {
+    "operatorNumber": "OP002",
+    "password": "operator",
+    "firstName": "Data",
+    "lastName": "Entry",
+    "phoneNumber": "555-555-0002",
+    "address": "201 ChocAn Way",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "zipCode": "35405"
+  },
+  {
+    "operatorNumber": "OP003",
+    "password": "admin123",
+    "firstName": "Support",
+    "lastName": "Staff",
+    "phoneNumber": "555-555-0003",
+    "address": "202 ChocAn Way",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "zipCode": "35203"
+  }
+]

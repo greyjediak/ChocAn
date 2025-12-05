@@ -1,0 +1,156 @@
+[
+  {
+    "providerNumber": "P001",
+    "memberNumber": "100001",
+    "serviceCode": "1",
+    "serviceFee": 12.99,
+    "serviceDate": "2025-12-01"
+  },
+  {
+    "providerNumber": "P001",
+    "memberNumber": "100002",
+    "serviceCode": "2",
+    "serviceFee": 8.99,
+    "serviceDate": "2025-12-01"
+  },
+  {
+    "providerNumber": "P002",
+    "memberNumber": "100003",
+    "serviceCode": "3",
+    "serviceFee": 29.99,
+    "serviceDate": "2025-12-02"
+  },
+  {
+    "providerNumber": "P002",
+    "memberNumber": "100001",
+    "serviceCode": "1",
+    "serviceFee": 12.99,
+    "serviceDate": "2025-12-02"
+  },
+  {
+    "providerNumber": "P003",
+    "memberNumber": "100004",
+    "serviceCode": "2",
+    "serviceFee": 8.99,
+    "serviceDate": "2025-12-03"
+  },
+  {
+    "providerNumber": "P003",
+    "memberNumber": "100005",
+    "serviceCode": "1",
+    "serviceFee": 12.99,
+    "serviceDate": "2025-12-03"
+  },
+  {
+    "providerNumber": "P001",
+    "memberNumber": "567252",
+    "serviceCode": "3",
+    "serviceFee": 29.99,
+    "serviceDate": "2025-12-04"
+  },
+  {
+    "providerNumber": "P004",
+    "memberNumber": "100006",
+    "serviceCode": "1",
+    "serviceFee": 12.99,
+    "serviceDate": "2025-12-04"
+  },
+  {
+    "providerNumber": "P004",
+    "memberNumber": "100007",
+    "serviceCode": "2",
+    "serviceFee": 8.99,
+    "serviceDate": "2025-12-04"
+  },
+  {
+    "providerNumber": "P005",
+    "memberNumber": "100008",
+    "serviceCode": "3",
+    "serviceFee": 29.99,
+    "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "P005",
+    "memberNumber": "100009",
+    "serviceCode": "1",
+    "serviceFee": 12.99,
+    "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "P006",
+    "memberNumber": "100010",
+    "serviceCode": "2",
+    "serviceFee": 8.99,
+    "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "8008",
+    "memberNumber": "100001",
+    "serviceCode": "1",
+    "serviceFee": 12.99,
+    "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "8008",
+    "memberNumber": "100002",
+    "serviceCode": "3",
+    "serviceFee": 29.99,
+    "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "P001",
+    "memberNumber": "100003",
+    "serviceCode": "1",
+    "serviceFee": 12.99,
+    "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "P002",
+    "memberNumber": "100004",
+    "serviceCode": "2",
+    "serviceFee": 8.99,
+    "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "P002",
+    "memberNumber": "567252",
+    "serviceCode": "1",
+    "serviceFee": 12.99,
+    "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "P003",
+    "memberNumber": "100006",
+    "serviceCode": "3",
+    "serviceFee": 29.99,
+    "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "P003",
+    "memberNumber": "100007",
+    "serviceCode": "1",
+    "serviceFee": 12.99,
+    "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "P004",
+    "memberNumber": "100008",
+    "serviceCode": "2",
+    "serviceFee": 8.99,
+    "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "P005",
+    "memberNumber": "567252",
+    "serviceCode": "2",
+    "serviceFee": 8.99,
+    "serviceDate": "2025-12-05"
+  },
+  {
+    "providerNumber": "P001",
+    "memberNumber": "100001",
+    "serviceCode": "3",
+    "serviceFee": 29.99,
+    "serviceDate": "2025-12-05"
+  }
+]
